@@ -1,1 +1,2 @@
 # college-project
+This project is a personalized recommendation system designed to suggest lifestyle improvements based on an individual's professional background and career goals. By analyzing key data points such as job role, industry, working habits, and skillset, the system recommends tailored activities, wellness routines, learning opportunities, and lifestyle adjustments that can help enhance productivity, work-life balance, and overall well-being.
